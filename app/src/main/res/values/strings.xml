@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">FirstDataBaseProject</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="create_user">Create User</string>
+    <string name="title_detail">Detail Title</string>
+    <string name="title_id">Id Title</string>
+    <string name="title_date">Date Title</string>
+</resources>
